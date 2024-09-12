@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 78 78" fill="none">
+  <path
+    d="M41.75 2.16506L69.525 18.201C71.2267 19.1834 72.275 20.9991 72.275 22.9641V55.0359C72.275 57.0009 71.2267 58.8166 69.525 59.799L41.75 75.8349C40.0483 76.8174 37.9517 76.8174 36.25 75.8349L8.47501 59.799C6.7733 58.8166 5.72501 57.0009 5.72501 55.0359V22.9641C5.72501 20.9991 6.7733 19.1834 8.47501 18.201L36.25 2.16506C37.9517 1.18258 40.0483 1.18258 41.75 2.16506Z"
+    stroke="url(#fill-border-gold)"></path>
+  <path
+    d="M35.9998 7.17382C37.8562 6.10203 40.1434 6.10203 41.9998 7.17382L65.062 20.4888C66.9184 21.5606 68.062 23.5413 68.062 25.6849V52.3149C68.062 54.4585 66.9184 56.4392 65.062 57.511L41.9998 70.826C40.1434 71.8978 37.8562 71.8978 35.9998 70.826L12.9376 57.511C11.0812 56.4392 9.93759 54.4585 9.93759 52.3149V25.6849C9.93759 23.5414 11.0812 21.5606 12.9376 20.4888L35.9998 7.17382Z"
+    fill="url(#fill-background-gold)" fill-opacity="0.3"></path>
+  <defs>
+    <linearGradient id="fill-border-gold" x1="81.1744" y1="4.0814" x2="-1.81395" y2="60.7674"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#404058"></stop>
+      <stop offset="1" stop-color="#404058" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="fill-background-gold" x1="38.9998" y1="-14.9652" x2="38.9998" y2="91.1511"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#404058" stop-opacity="0"></stop>
+      <stop offset="1" stop-color="#404058"></stop>
+    </linearGradient>
+  </defs>
+</svg>
